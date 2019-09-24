@@ -1,5 +1,9 @@
 # Word2Vec using Gensim
 
+### Source :
+
+Download : https://www.kaggle.com/c/word2vec-nlp-tutorial/data
+
 ### Table of Contents
 
 #### 1. **Information**
@@ -23,9 +27,6 @@
 #### 7. **What's next ?**
 
 #### 8. **References**<br>
-
-### Source :
-- https://www.kaggle.com/c/word2vec-nlp-tutorial/data
 
 ### Details :
 
